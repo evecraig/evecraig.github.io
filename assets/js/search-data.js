@@ -494,9 +494,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-",
-          title: '',
-          description: "",
+            },},{id: "teachings-ling-102-introduction-to-the-study-of-language",
+          title: 'LING 102 - Introduction to the Study of Language',
+          description: "Introduction to major topics and methods of analysis in linguistics, with a focus on producing written works.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
