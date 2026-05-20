@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student <a href='#'>Department of Linguistics</a>. University of Hawai‘i at Mānoa
+subtitle: PhD Student <a href='#'>Department of Linguistics<(https://manoa.hawaii.edu/linguistics/)>. University of Hawai‘i at Mānoa
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Moore 566A</p>
+    <p>Moore Hall 566A,</p>
     <p>1890 East-West Rd</p>
     <p>Honolulu, HI 96822</p>
 
