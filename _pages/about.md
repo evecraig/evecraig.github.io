@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Moore Hall 566A,</p>
+    <p>Moore Hall 566A</p>
     <p>1890 East-West Rd</p>
     <p>Honolulu, HI 96822</p>
 
