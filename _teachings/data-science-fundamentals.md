@@ -1,6 +1,6 @@
 ---
 layout: course
-title: LING 102: Introduction to the Study of Language
+title: LING 102 - Introduction to the Study of Language
 description: Introduction to major topics and methods of analysis in linguistics, with a focus on producing written works.
 year: 
 term: Fall 2026, Spring 2026, Fall 2025
