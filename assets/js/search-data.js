@@ -498,7 +498,7 @@ ninja.data = [{
           title: 'LING 102 - Introduction to the Study of Language',
           description: "Introduction to major topics and methods of analysis in linguistics, with a focus on producing written works.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/intro-study-of-language/";
             },},{
         id: 'social-cv',
         title: 'CV',
