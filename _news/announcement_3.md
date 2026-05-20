@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First year of PhD completed!
+I launched this website!
