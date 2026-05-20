@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student 
-<a href='#'>Department of Linguistics</a>. 
-University of Hawai‘i at Mānoa
+subtitle: PhD Student <a href='#'>Department of Linguistics</a>. University of Hawai‘i at Mānoa
 
 profile:
   align: right
