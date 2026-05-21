@@ -1,10 +1,10 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Eve Craig
+  label: PhD Student
+  email: ecraig@hawaii.edu
+  location: Honolulu, HI
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary:
 
   social_networks:
     - network: X
@@ -15,36 +15,32 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 1890 East-West Rd
+    city: Honolulu
+    region: Hawai‘i
+    postalCode: HI 96822
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Hawai‘i at Mānoa
+        location: Honolulu, HI
+        url: https://manoa.hawaii.edu/linguistics/
+        area: Linguistics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2025
+        end_date: Present
         score: ""
-        courses: "Theory of Relativity"
+        courses: 
         highlights:
-          - Description 1.
-          - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: The Ohio State University
+        location: Columbus, OH
+        area: Linguistics
+        studyType: B.A. (with honors)
+        start_date: 2019
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
 
     Languages:
       - name: German
@@ -53,7 +49,7 @@ cv:
       - name: English
         summary: "Fluent"
 
-    Service:
+    #Service:
       - company: Institute for Advanced Study, Princeton University
         position: Professor of Theoretical Physics
         location: Princeton University, NJ
@@ -102,7 +98,7 @@ cv:
           - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
           - "Men of the year 2014 by Time magazine"
 
-    Awards:
+    #Awards:
       - title: Nobel Prize in Physics
         authors:
           - "Royal Swedish Academy of Sciences"
@@ -118,7 +114,7 @@ cv:
         awarder: German Physical Society
         summary: Awarded for outstanding scientific achievement
 
-    Publications:
+    #Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
           - Albert Einstein
@@ -144,10 +140,10 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: 
+        level: 
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: ""
 
     Research Interests:
       - name: Spatial Language
@@ -158,7 +154,7 @@ cv:
         icon: fa-solid fa-tag
         keywords: "nonconcatenative morphology, vowel harmony, consonant harmony"
 
-    Certificates:
+   #Certificates:
       - name: Machine Learning
         date: 2018-01-01
         issuer: Stanford University
@@ -174,7 +170,7 @@ cv:
         issuer: Stanford University
         icon: fa-solid fa-envelope
 
-    Projects:
+    #Projects:
       - name: Quantum Computing
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
         highlights:
@@ -183,7 +179,7 @@ cv:
         start_date: 2018-01-01
         end_date: 2018-01-01
 
-    References:
+    #References:
       - name: Professor John Doe
         icon: fa-solid fa-laptop
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
