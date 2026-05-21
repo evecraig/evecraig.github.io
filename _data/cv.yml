@@ -150,9 +150,13 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Research Interests:
-      - name: Physics
+      - name: Spatial Language
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "sociotopography, frames of reference, directional systems, landscape terminology"
+
+      - name: Long-Distance Processes
+        icon: fa-solid fa-tag
+        keywords: "nonconcatenative morphology, vowel harmony, consonant harmony"
 
     Certificates:
       - name: Machine Learning
