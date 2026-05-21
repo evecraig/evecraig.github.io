@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: she/her
+subtitle:
 
 
 profile:
@@ -28,6 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+**she/her**<br>
 PhD Student<br>
 <a href="https://manoa.hawaii.edu/linguistics/"> Department of Linguistics </a><br>
 University of Hawai‘i at Mānoa<br>
