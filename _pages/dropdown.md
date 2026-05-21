@@ -1,13 +1,9 @@
-<!-- ---
-layout: page
-title: submenus
+---
+layout: book-shelf
+title: bookshelf
+permalink: /books/
 nav: true
 nav_order: 8
-dropdown: true
-children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
---- -->
+dropdown: false
+collection: books
+---
