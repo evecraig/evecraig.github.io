@@ -81,17 +81,6 @@ ninja.data = [{
             window.location.href = "/blog/2020/twitter/";
           
         },
-      },{id: "post-distill",
-        
-          title: "Distill",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2018/distill/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
