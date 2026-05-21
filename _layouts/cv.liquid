@@ -40,7 +40,7 @@ layout: default
   <article>
     <div class="cv">
       {% comment %} Determine which CV format to render {% endcomment %}
-      {% assign render_rendercv = false %}
+      {% assign render_rendercv = true %}
       {% assign render_jsonresume = false %}
 
       {% if page.cv_format == 'rendercv' %}
@@ -127,7 +127,7 @@ layout: default
         {% assign vol = cv.sections.Service | default: empty_array %}
         {% assign combined_service = srv | concat: vol %}
         {% if combined_service.size > 0 %}
-          <a class="anchor" id="Service"></a>
+          <a class="anchor" id="service"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Service</h3>
             <div>
