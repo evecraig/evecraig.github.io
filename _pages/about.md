@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **she/her** 
+subtitle: she/her
 
 
 PhD Student
