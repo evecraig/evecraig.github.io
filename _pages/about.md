@@ -27,6 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
 I am a second-year PhD student on the language documentation track at UH Mānoa.
 
-My research interests are in spatial language and nonconcatenative morphophonology. More specifically, I am interested in sociotopography, or the adaptation of frames of reference, directional systems, and landscape terminology to various environments. Much of the existing work in sociotopography has been done in the Austronesian family, so I would like to see how spatial language evolves in other regions or families. Other interest of mine are in discontinuous morphology and long-distance phonological processes, such as vowel harmony and consonant harmony.
+My research interests are in spatial language and nonconcatenative morphophonology. 
+
+More specifically, I am interested in sociotopography, or the adaptation of frames of reference, directional systems, and landscape terminology to various environments. Much of the existing work in sociotopography has been done in the Austronesian family, so I would like to see how spatial language evolves in other regions or families. 
+
+Other interests of mine are in discontinuous morphology and long-distance phonological processes, such as vowel harmony and consonant harmony.
