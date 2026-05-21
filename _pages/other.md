@@ -5,9 +5,9 @@ nav: true
 nav_order: 10
 dropdown: true
 children:
-  - title: extracurricular
-    permalink:
+  - title: extracurriculars
+    permalink: /extra/
   - title: divider
   - title: wukeka
-    permalink: 
+    permalink: /wukeka/
 ---
