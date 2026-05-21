@@ -46,16 +46,14 @@ cv:
           #- Description 1.
           #- Description 2.
 
-      #Research Experience:
-      #- company: 
-        #position: 
-        #location: 
-        #start_date: 
-        #end_date: 
-        #summary: 
-        #highlights:
-          #- Relativity
-          #- Description 2.
+    Research Interests:
+      - name: Spatial Language
+        icon: fa-solid fa-tag
+        keywords: "sociotopography, landscape terminology, frames of reference, directional systems"
+
+      - name: Morphophonology
+        icon: fa-solid fa-tag
+        keywords: "discontinuous morphology, long-distance phonology, vowel harmony, consonant harmony"
 
     Service:
       - company: Linguistic Society of Mānoa
@@ -67,6 +65,17 @@ cv:
         highlights:
           - 
           - 
+
+      #Research Experience:
+      #- company: 
+        #position: 
+        #location: 
+        #start_date: 
+        #end_date: 
+        #summary: 
+        #highlights:
+          #- Relativity
+          #- Description 2.
 
     #Awards:
       #- title: Nobel Prize in Physics
@@ -96,15 +105,6 @@ cv:
     #Languages:
       #- name: 
         #summary: 
-
-    Research Interests:
-      - name: Spatial Language
-        icon: fa-solid fa-tag
-        keywords: "sociotopography, landscape terminology, frames of reference, directional systems"
-
-      - name: Morphophonology
-        icon: fa-solid fa-tag
-        keywords: "discontinuous morphology, long-distance phonology, vowel harmony, consonant harmony"
 
     #Certificates:
       #- name: Machine Learning
