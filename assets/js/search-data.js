@@ -45,7 +45,7 @@ ninja.data = [{
                 window.location.href = "";
               },
             },{id: "dropdown-wukeka",
-              title: "Wukeka",
+              title: "wukeka",
               description: "",
               section: "Dropdown",
               handler: () => {
