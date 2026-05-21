@@ -4,6 +4,7 @@ title: extracurriculars
 permalink: /extra/
 nav: false
 ---
+
 ## Conlanging
 In addition to my academic interest in linguistics are the activities related to linguistics I do in my free time. One of these is conlanging, the hobby that helped spark my interest in language.
 
