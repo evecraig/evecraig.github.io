@@ -125,11 +125,11 @@ layout: default
         {% assign empty_array = '' | split: ',' %}
         {% assign exp = cv.sections.Experience | default: empty_array %}
         {% assign vol = cv.sections.Service | default: empty_array %}
-        {% assign combined_experience = exp | concat: vol %}
-        {% if combined_experience.size > 0 %}
-          <a class="anchor" id="experience"></a>
+        {% assign combined_service = srv | concat: vol %}
+        {% if combined_service.size > 0 %}
+          <a class="anchor" id="Service"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Experience</h3>
+            <h3 class="card-title font-weight-medium">Service</h3>
             <div>
               {% assign entries = combined_experience %}
               {% include cv/experience.liquid %}
