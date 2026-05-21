@@ -37,7 +37,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-first-year-of-grad-school",
+        },{id: "dropdown-extracurricular",
+              title: "extracurricular",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-wukeka",
+              title: "Wukeka",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "post-first-year-of-grad-school",
         
           title: "first year of grad school",
         
