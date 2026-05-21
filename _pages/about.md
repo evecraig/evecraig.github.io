@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: she/her PhD Student, <a href="https://manoa.hawaii.edu/linguistics/"> Department of Linguistics </a>, University of Hawai‘i at Mānoa
+subtitle: she/her
 
 
 profile:
@@ -28,6 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+PhD Student
+<a href="https://manoa.hawaii.edu/linguistics/"> Department of Linguistics </a>
+University of Hawai‘i at Mānoa
 
 I am a second-year PhD student on the language documentation track at UH Mānoa.
 
