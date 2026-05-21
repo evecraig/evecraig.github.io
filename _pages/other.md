@@ -8,6 +8,6 @@ children:
   - title: extracurricular
     permalink:
   - title: divider
-  - title: Wukeka
+  - title: wukeka
     permalink: 
 ---
