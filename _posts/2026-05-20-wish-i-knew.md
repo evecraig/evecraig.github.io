@@ -11,6 +11,7 @@ Now that my first year of grad school is over, I realized there were some things
 <br>
 
 ### Tools
+<br>
 ##### Zotero
 - A citation manager that can also access articles.
 
