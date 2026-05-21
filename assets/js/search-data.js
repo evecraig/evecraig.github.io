@@ -114,17 +114,6 @@ ninja.data = [{
             window.location.href = "/blog/2015/code/";
           
         },
-      },{id: "post-images",
-        
-          title: "Images",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
-          
-        },
       },{id: "post-first-year-of-grad-school",
         
           title: "first year of grad school",
