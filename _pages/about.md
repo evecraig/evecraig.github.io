@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [iv kɹe͡ɪg]
+subtitle: iv kɹeɪg
 
 
 profile:
