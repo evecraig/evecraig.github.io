@@ -81,17 +81,6 @@ ninja.data = [{
             window.location.href = "/blog/2018/distill/";
           
         },
-      },{id: "post-math",
-        
-          title: "Math",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/math/";
-          
-        },
       },{id: "post-first-year-of-grad-school",
         
           title: "first year of grad school",
