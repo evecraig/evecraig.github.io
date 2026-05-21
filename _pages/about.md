@@ -4,13 +4,13 @@ title: about
 permalink: /
 subtitle: 
 **she/her** 
-<br/><br/>
+
 
 PhD Student
-<br/><br/>
+
 
 <a href="https://manoa.hawaii.edu/linguistics/"> Department of Linguistics </a>, University of Hawai‘i at Mānoa
-<br/><br/>
+
 
 profile:
   align: right
