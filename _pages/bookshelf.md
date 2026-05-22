@@ -28,6 +28,8 @@ Senft, Gunter. 2017. Absolute frames of spatial reference in Austronesian langua
 
 Sipőcz, Katalin. 2005. Spatial orientation and grammaticalization. _Acta Linguistica Hungarica_ 52(4). 411-425.
 
+Gaby, Alice, Bill Palmer, Jonathon Lum, and Jonathan Schlossberg (eds.). 2022. _Linguistics Vanguard_ 8(1), Sociotopography. De Gruyter Brill.
+
 _The poetic power of place: Comparative perspectives on Austronesian ideas of locality_. 2006. Canberra: ANU E Press.
 
 Tuan, Yi-Fu. 1977. _Space and place: The persective of experience_. Minneapolis: University of Minnesota Press.
