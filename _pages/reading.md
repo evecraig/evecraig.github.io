@@ -15,6 +15,8 @@ A list of things I want to read this summer that are not academic:
 - Reed, Cameron. 1998. _Congenital agenesis of gender ideation by K. N. Sirsi and Sandra Botkin_. url: https://reactormag.com/congenital-agenesis-cameron-reed/
   
 - Reed, Cameron. 1996. _The fortunate fall_. New York, NY: Tor Publishing Group. ISBN: 978-1-250-32669-0.
+
+- Reed, Cameron. 2025. _The girl that my mother is leaving me for_. url: https://reactormag.com/the-girl-that-my-mother-is-leaving-me-for-cameron-reed/
   
 - Reed, Cameron. 2026. _What we are seeking_. New York, NY: Tor Publishing Group, 1st edn. ISBN: 978-1-250-36473-9.
   
