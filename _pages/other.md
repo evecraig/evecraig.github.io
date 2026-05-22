@@ -8,6 +8,9 @@ children:
   - title: extracurriculars
     permalink: /extra/
   - title: divider
+  - title: reading
+    permalink: /reading/ 
+  - title: divider
   - title: wukeka
     permalink: /wukeka/
 ---
