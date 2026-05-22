@@ -12,7 +12,7 @@ A list of things I want to read this summer that are not academic:
 
 - Jemison, N. K. 2015. _The Fifth Season_. New York, NY: Orbit Books, 1st edn. ISBN: 978-0-316-22929-6.
 
-- Reed, Cameron. 1998. _Congenital agenesis of gender ideation_. url: https://reactormag.com/congenital-agenesis-cameron-reed/
+- Reed, Cameron. 1998. _Congenital agenesis of gender ideation by K. N. Sirsi and Sandra Botkin_. url: https://reactormag.com/congenital-agenesis-cameron-reed/
   
 - Reed, Cameron. 1996. _The fortunate fall_. New York, NY: Tor Publishing Group. ISBN: 978-1-250-32669-0.
   
